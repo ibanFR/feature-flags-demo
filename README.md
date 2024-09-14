@@ -1,10 +1,4 @@
 # FEATURE FLAGS DEMO PROJECT
-//write an intro for the project 
-//what is the project about
-//what is the project for
-//what is the project's purpose
-//what is the project's goal
-
 
 This is a demo project to showcase integration with feature flag on a Java project.
 
@@ -12,11 +6,11 @@ Several tools will be researched and integrated into this project to showcase ho
 
 A simple JSF application will be created to showcase how to use feature flags in a web application.
 
+
 ## Tools
 
-- [Docker](https://www.docker.com/) 
-
-## Flipt
+- Java EE 17
+- [Docker](https://www.docker.com/)
 - [Flipt](https://docs.flipt.io/introduction)
 
 ## Getting Started

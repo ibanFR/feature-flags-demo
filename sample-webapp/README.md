@@ -2,7 +2,6 @@
 
 ## Tools
 
-- Java EE 17
 - [Jakarta Faces 4.0 (JSF)](https://jakarta.ee/specifications/faces/)
 Jakarta Faces 4.0 is part of the Jakarta EE 9 platform which requires a Servlet 5.0 compatible container. 
 Jakarta EE 10 is compatible with Servlet 5.0, so you should use a Jakarta EE 10 compatible container for Jakarta Faces 4.0.
